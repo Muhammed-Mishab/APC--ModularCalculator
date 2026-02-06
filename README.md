@@ -25,6 +25,7 @@ calculator/
 └─ Makefile          # Compilation automation
 ```
 ```text
+```
 # Conclusion
 
 This APC project successfully demonstrates the use of advanced C programming concepts such as modular design, header files, and input validation. It provides a strong foundation in structured programming and prepares students for larger system-level and embedded software projects.
